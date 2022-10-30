@@ -12,6 +12,6 @@ Analyzed the data with pandas and made visualisations with seaborn and matplotli
 * Positive percentage kept on reducing as the year 2020 progressed. But due to slow implementation of vaccination program as well as leniency in Covid protocols, India saw a huge spike in the 2nd wave.
 * We saw a huge downfall in the no. of cases from the Month of June 2021 which gave the Govt. of India an opportunity to boost manufacturing and supply chain
 * Goa, Chandigarh and Himachal had highest PoPV while it was the least in UP, Bihar.
-*States like Kerala, Goa, Delhi were the major contributors for positive cases while states of Bihar, MP and UP contributed the least in 2021
-*The maximum percentage of the total population that was infected with the virus among was 3.36% which was in Delhi while the least was in Bihar in 2020.
-*According to my analysis Delhi had the highest perc. of it's population infected during this time period which was 3.36% and the min perc. of bihar with 0.2%
+* States like Kerala, Goa, Delhi were the major contributors for positive cases while states of Bihar, MP and UP contributed the least in 2021
+* The maximum percentage of the total population that was infected with the virus among was 3.36% which was in Delhi while the least was in Bihar in 2020.
+* According to my analysis Delhi had the highest perc. of it's population infected during this time period which was 3.36% and the min perc. of bihar with 0.2%
